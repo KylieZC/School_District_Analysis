@@ -1,9 +1,4 @@
 # School_District_Analysis
- # To get the passing percentages, we need to:
- # 1. Determine what is the passing grade.
- # 2. Get the number of students who passed math and reading.
- # 3. Get the students who passed math and passed reading
-
 # Overview of the school district analysis: Explain the purpose of this analysis.
 Maria, a data scientist in a city school, is helping schools replace the dishonest score with NaN using multiple information based on student math and reading scores in  Thomas High School. This analysis provides the influence to assist the school board and superintendent in making decisions in the school budget and priorities.
 
