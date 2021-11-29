@@ -28,13 +28,15 @@ School rank of Thomas High School is unchanged, it still stand in the second wit
 ## How does replacing the ninth-grade scores affect the following:
 * Scores by school spending
 ![spending](Resources/spending.png)
+This image describes that the increase of overall percentage will not affect the school spending increase. The school spending between $645-675 has the lowest overall rate at 53.5%.
 
 * Scores by school size
 ![sizee](Resources/sizee.png)
+The small and medium schools have very high passing math percentages (94%). However, a large type of school only has a 70% passing math percentage. Also, the large school has a low passing percentage in reading(70%), resulting in a low overall passing rate (58%). 
 
 * Scores by school type
 ![size](Resources/size.png)
-Charter type school always provide better performance than the District type school, especially in overall percentage. District school has a pretty low (54%) compare to the Charter (90%).
+Charter-type schools always provide better performance than the District type school, especially in overall percentage. However, district schools have a pretty low (54%) compared to the Charter (90%).
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-It is difficult to insight the dishonest behaviour if the school board does not know the full extent of the file. And there is tiny effect of the school passing percentage and rank result. 
+It is difficult to insight the dishonest behaviour if the school board does not know the full extent of the file. And there is little effect on the school passing percentage and rank result. 
