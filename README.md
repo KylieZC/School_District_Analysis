@@ -21,6 +21,7 @@ _before_
 * The effect of school summary 
  ![Header](Resources/Header.png)
  ![Thomas High School](Resources/Thomas High School.png)
+ 
 School rank of Thomas High School is unchanged, it still stand in the second within all the school. 
 
 
