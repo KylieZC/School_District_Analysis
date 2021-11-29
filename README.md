@@ -6,7 +6,8 @@ Maria, a data scientist in a city school, is helping schools replace the dishone
 This analysis first uses 'NaN' to replace all ninth-grade students of Thomas High School to eliminate the effect of dishonest students on the overall school analysis.
 ![Nan](Resources/Nan.png)
 
-* How is the district summary affected?
+* The effect of district summary 
+
 _After_
 ![district_summary](Resources/district_summary.png)
 _before_
@@ -17,7 +18,7 @@ _before_
 - The percentage of passing math decrease from 74.98% to 84.8%.
 
 
-* How is the school summary affected?
+* The effect of school summary 
  ![Header](Resources/Header.png)
  ![Thomas High School](Resources/Thomas High School.png)
 School rank of Thomas High School is unchanged, it still stand in the second within all the school. 
