@@ -36,5 +36,5 @@ The small and medium schools have very high passing math percentages (94%). Howe
 ![size](Resources/size.png)
 Charter-type schools always provide better performance than the District type school, especially in overall percentage. However, district schools have a pretty low (54%) compared to the Charter (90%).
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary
 It is difficult to insight the dishonest behaviour if the school board does not know the full extent of the file. And there is little effect on the school passing percentage and rank result. 
