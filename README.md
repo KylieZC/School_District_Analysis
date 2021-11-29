@@ -22,8 +22,6 @@ _before_
  ![Thomas High School](Resources/Thomas High School.png)
 School rank of Thomas High School is unchanged, it still stand in the second within all the school. 
 
-* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
 
 ## How does replacing the ninth-grade scores affect the following:
 * Scores by school spending
