@@ -26,15 +26,15 @@ School rank of Thomas High School is unchanged, it still stand in the second wit
 
 
 ## How does replacing the ninth-grade scores affect the following:
-* Math and reading scores by grade
 * Scores by school spending
 ![spending](Resources/spending.png)
 
 * Scores by school size
-![size](Resources/size.png)
-Charter type school always provide better performance than the District type school, especially in overall percentage. District school has a pretty low (54%) compare to the Charter (90%).
+![sizee](Resources/sizee.png)
 
 * Scores by school type
+![size](Resources/size.png)
+Charter type school always provide better performance than the District type school, especially in overall percentage. District school has a pretty low (54%) compare to the Charter (90%).
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 It is difficult to insight the dishonest behaviour if the school board does not know the full extent of the file. And there is tiny effect of the school passing percentage and rank result. 
