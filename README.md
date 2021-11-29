@@ -1,8 +1,8 @@
 # School_District_Analysis
-# Overview of the school district analysis: Explain the purpose of this analysis.
+# Overview 
 Maria, a data scientist in a city school, is helping schools replace the dishonest score with NaN using multiple information based on student math and reading scores in  Thomas High School. This analysis provides the influence to assist the school board and superintendent in making decisions in the school budget and priorities.
 
-# Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+# Results
 This analysis first uses 'NaN' to replace all ninth-grade students of Thomas High School to eliminate the effect of dishonest students on the overall school analysis.
 ![Nan](Resources/Nan.png)
 
