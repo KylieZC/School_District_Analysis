@@ -13,9 +13,9 @@ _After_
 _before_
 ![district_before](Resources/district_before.png)
 
-- Total overall passing percentage fall to 64.9%.
-- The percentage of passing reading decrease from 85.8% to 85.7%.
-- The percentage of passing math decrease from 74.98% to 84.8%.
+1. Total overall passing percentage fall to 64.9%.
+2. The percentage of passing reading decrease from 85.8% to 85.7%.
+3. The percentage of passing math decrease from 74.98% to 84.8%.
 
 
 * The effect of school summary 
